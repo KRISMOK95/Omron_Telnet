@@ -1,0 +1,16 @@
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.exe
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.deps.json
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.runtimeconfig.json
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.runtimeconfig.dev.json
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.dll
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\ref\Omron2.dll
+C:\Users\K\source\repos\Omron2\Omron2\bin\Debug\net5.0\Omron2.pdb
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.csproj.AssemblyReference.cache
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.AssemblyInfoInputs.cache
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.AssemblyInfo.cs
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.dll
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\ref\Omron2.dll
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.pdb
+C:\Users\K\source\repos\Omron2\Omron2\obj\Debug\net5.0\Omron2.genruntimeconfig.cache
